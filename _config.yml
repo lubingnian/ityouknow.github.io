@@ -17,9 +17,7 @@ favicon: favicon.png
 
 repository: lubingnian/lbn.github.io
 github_url: https://github.com/lubingnian
-cnblog_url: http://www.cnblogs.com/ityouknow
 url: http://github.com/lubingnian
-enforce_ssl: ityouknow.com
 
 ## Gem
 plugins:
